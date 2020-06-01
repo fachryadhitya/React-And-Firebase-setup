@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+<img align="center" src="https://i.ibb.co/7k0PMPY/firebase.png" />
+
 ## Available Scripts
 
 In the project directory, you can run:
