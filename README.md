@@ -1,5 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+<img align="center" src="https://i.ibb.co/7k0PMPY/firebase.png" />
+
+## Usage
+
+Go to <span> <a href="https://firebase.google.com/"> Firebase Website </a> </span>, 
+Create your project, after you get the config,
+put it on <strong> .env </strong> file in the root of this project
+
 ## Available Scripts
 
 In the project directory, you can run:
