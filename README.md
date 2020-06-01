@@ -2,6 +2,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 <img align="center" src="https://i.ibb.co/7k0PMPY/firebase.png" />
 
+## Usage
+
+<p>Go to <a href="https://firebase.google.com"> Firebase Website</a>, Create a project,
+  and put your config project to the <strong> .env </strong> file in this root of project</p>
+
 ## Available Scripts
 
 In the project directory, you can run:
